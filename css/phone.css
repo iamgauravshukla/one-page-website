@@ -1,5 +1,12 @@
 @media (min-width: 500px) and (max-width: 1090px){
 
+	.container{
+	margin-top: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+	}
+
 	.frame-4-left {
 	    width: 612px;
 	}
@@ -49,6 +56,12 @@
 
 /*For Mobile Phones*/
 @media (max-width: 500px){
+	.container{
+	margin-top: 15px;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+	}
 	.frame-4 {
 	    display: grid;
 	    margin-top: 20px;
