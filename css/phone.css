@@ -18,11 +18,11 @@
 
 	.content .btn2 {
 	    margin-right: 51px;
-	    margin-top: -20px;
+	    margin-top: 5px;
 	}
 	 
 	.plan {
-		margin: 38px;
+		margin: 27px;
 		line-height: 27px;
 		}
 
@@ -138,12 +138,13 @@
 	}
 }
 
-@media (min-width: 1090px) and (max-width: 1195px){
+@media (min-width: 1090px) and (max-width: 1210px){
 	.plan{
 		margin: 37px;
 	}
 	.content .btn2 {
     	margin-top: 0px;
+    	margin-right: 67px;
     }
 
 }
